@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 15 01:21:20 2021
-
-@author: socha
-"""
 
 x = [9,4,7,3,1]
 print("dany jest ciąg:", x)
